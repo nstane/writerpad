@@ -1,4 +1,4 @@
-# Article and Tags API
+# Xebia WriterPad Article and Tags API
 This app is using in-memory H2 DB. So, No extra configuration required.
 
 All api documentation is available on http://localhost:8080/swagger-ui.html
