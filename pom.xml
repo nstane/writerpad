@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<swagger.version>2.9.2</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 		<string-similarity-version>1.0.0</string-similarity-version>
 		<easymock-version>4.2</easymock-version>
 		<jacoco.version>0.8.4</jacoco.version>
